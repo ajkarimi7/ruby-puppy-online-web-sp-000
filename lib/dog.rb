@@ -19,4 +19,5 @@ class Dog
     puts @@all.map{ |dog| dog.name }
   end 
   
+  
 end 
