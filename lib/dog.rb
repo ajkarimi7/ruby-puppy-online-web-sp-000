@@ -16,6 +16,6 @@ class Dog
   end
   
   def self.print_all
-    puts 
+    puts @@all.map{
   
 end 
